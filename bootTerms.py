@@ -1,4 +1,4 @@
-textTerms = '''Termo de Consentimento e Conduta para Usuários
+textTerms = '''Termo de Consentimento e Conduta para Usuários, bem-vindo
 Introdução:
 Bem-vindo à nossa plataforma. Utilizamos uma IA para monitorar interações e detectar falas de assédio e agressão verbal. Ao usar nossa plataforma, você aceita os seguintes termos e compreende as consequências de não segui-los.
 
